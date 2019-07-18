@@ -1,0 +1,11 @@
+{
+  "name": "EarnWallet Crypto Multi Tool",
+  "version": "1.1",
+  "description": "EarnWallet Crypto Multi Tool 100% Free!",
+  "permissions": ["activeTab", "declarativeContent", "webNavigation", "storage","http://*/*","https://*/*","tabs","pageCapture","webRequest"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "manifest_version": 2
+}
