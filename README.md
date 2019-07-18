@@ -1,2 +1,2 @@
-# CryptoMutliTool
+# CryptoMultiTool
  CryptoMultiTool by EarnWallet
